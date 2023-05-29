@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.transparencia:hover {
+  opacity: 0.5; /* Cambia el valor según la opacidad deseada */
+}
